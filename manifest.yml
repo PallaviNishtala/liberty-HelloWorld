@@ -1,8 +1,8 @@
 applications:
 - disk_quota: 1024M
-  host: DemoWebApp-PN
+  host: DemowebApp-PN
   name: DemoWebApp-PN
   path: webStarterApp.war
-  domain: mybluemix.net
+  domain: console.ng.bluemix.net
   instances: 1
   memory: 512M
